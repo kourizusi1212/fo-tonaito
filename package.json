@@ -1,0 +1,9 @@
+{
+  "name": "build-battle",
+  "version": "1.0.0",
+  "description": "Fortnite-like online 3D shooter with building (Node.js + WebSocket + three.js)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
